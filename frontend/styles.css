@@ -1,7 +1,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background: #f4f4f4;
+  background: #091407;
   margin: 0;
   padding: 20px;
 }
@@ -11,7 +11,7 @@ body {
   gap: 15px;
 }
 .jeu {
-  background: white;
+  background: rgb(255, 255, 255);
   padding: 10px;
   border: 1px solid #ccc;
   width: 200px;
